@@ -12,6 +12,7 @@ public class Day03Application {
         System.out.println("hot-fix");
         SpringApplication.run(Day03Application.class, args);
         System.out.println("master");
+        System.out.println("git-update");
     }
 
 }
