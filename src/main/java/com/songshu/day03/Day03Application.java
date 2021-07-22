@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Day03Application {
 
     public static void main(String[] args) {
+        System.out.println("hello git");
         SpringApplication.run(Day03Application.class, args);
     }
 
