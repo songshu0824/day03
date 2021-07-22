@@ -11,6 +11,7 @@ public class Day03Application {
         System.out.println("蓝色的直接提交");
         System.out.println("hot-fix");
         SpringApplication.run(Day03Application.class, args);
+        System.out.println("从git拉取");
     }
 
 }
